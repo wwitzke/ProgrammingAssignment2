@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions in this file implement matrix objects that cache their
+## solutions.
 
 ## This function creates a matrix object that can cache its inverse.
 makeCacheMatrix <- function(x = matrix())
